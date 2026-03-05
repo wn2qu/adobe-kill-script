@@ -1,4 +1,4 @@
-# Adobe Kill Script — Nuclear Option ☢️
+# Adobe Kill Script
 
 A single-file Python script that **completely terminates all Adobe and Creative Cloud processes** on Windows — including the stubborn background daemons, services, and scheduled tasks that respawn them.
 
